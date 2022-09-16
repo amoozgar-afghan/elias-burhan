@@ -1,2 +1,2 @@
-# elias-burhan
-My Personal Portfolio
+# Elias Burhan Portfolio
+This is my personal portfolio
